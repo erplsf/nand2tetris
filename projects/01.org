@@ -1,0 +1,6 @@
+#+title: 01
+
+* DONE Not
+* TODO Not16
+* DONE And
+* TODO AND
