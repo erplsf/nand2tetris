@@ -3,4 +3,6 @@
 * DONE Not
 * DONE Not16
 * DONE And
-* TODO AND
+* DONE And16
+* TODO Or
+* TODO Or16
